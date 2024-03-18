@@ -8,11 +8,11 @@
 
 <br clear="both">
 
-<h2 align="left">Hi  My name is Rayyan and I'm a Full Stack Developer</h2>
+<h2 align="left">Hi! My name is Rayyan and I'm a Full Stack Developer</h2>
 
 ###
 
-<h5 align="left">I am an Open Source Enthusiast</h5>
+<h5 align="left">This is a test profile where I ship stuff for fun. I also test some actions and workflows here..</h5>
 
 ###
 
@@ -82,7 +82,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/theDarkShadow/theDarkShadow/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/theDarkShadow2157/theDarkShadow2157/a101580001b64e906d8448ca3b096f2da4c0175c/snake.svg" alt="Snake animation" />
 
 ###
 
